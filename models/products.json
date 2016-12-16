@@ -1,0 +1,84 @@
+{
+  "products":[
+    {
+      "name": "Wacom Cintiq Pro 16",
+      "price": 1499.95,
+      "model": "DTH-1620",
+      "size": "410 x 265 x 14.5mm",
+      "resolution": "Ultra HD (3840 x 2160)",
+      "pressure": 8192
+    },
+    {
+      "name": "Wacom Cintiq Pro 13",
+      "price": 999.95,
+      "model": "DTH-1320",
+      "size": "360 x 235 x 13.9mm",
+      "resolution": "Full HD 1920 x 1080",
+      "pressure": 8192
+    },
+    {
+      "name": "Cintiq 13HD",
+      "price": 999.95,
+      "model": "Touch",
+      "size": "375 x 248 x 14mm",
+      "resolution": "5080 lpi",
+      "pressure": 2048
+    },
+    {
+      "name": "Cintiq 22HD",
+      "price": 1849.95,
+      "model": "DTH2200",
+      "size": "650 x 400 x 55mm",
+      "resolution": "5080 lpi",
+      "pressure": 2048
+    },
+    {
+      "name": "Cintiq 27QHD",
+      "price": 2549.95,
+      "model": "DTH2700",
+      "size": "770 x 465 x 54.5mm",
+      "resolution": "5080 lpi",
+      "pressure": 2048
+    },
+    {
+      "name": "Wacom MobileStudio Pro 13",
+      "price": 1999.95,
+      "model": "DTHW1320M",
+      "size": "367 x 229 x 16mm",
+      "resolution": "WQHD (2560 x 1440)",
+      "pressure": 8192
+    },
+    {
+      "name": "Wacom MobileStudio Pro 16",
+      "price": 2499.95,
+      "model": "DTH-W1620M",
+      "size": "418 x 262 x 19mm",
+      "resolution": "UHD (3840 x 2160)",
+      "pressure": 8192
+    },
+    {
+      "name": "Intuos 3D",
+      "price": 199.95,
+      "model": "CTH-690",
+      "size": "275 x 217.2 x 10.7mm",
+      "resolution": "2540",
+      "pressure": 1024
+    },
+    {
+      "name": "Intuos Photo Small",
+      "price": 99.95,
+      "model": "CTH490PK",
+      "size": "152 x 95mm",
+      "resolution": "2540 lpi",
+      "pressure": 1024
+    },
+    {
+      "name": "Intuos Art Medium",
+      "price": 199.95,
+      "model": "CTH690AB",
+      "size": "152 x 95mm",
+      "resolution": "2540 lpi",
+      "pressure": 1024
+    }
+  ]
+}
